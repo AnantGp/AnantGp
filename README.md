@@ -6,7 +6,7 @@ Innovative Machine Learning Engineer with a specialized focus on Large Language 
 
 ### 🚀 Current Role
 **ML Engineer** at Arogya Pandit Pvt Limited
-*Northern Adelaide Local Health Network | Apr 2025 – Present*
+*Apr 2025 – Present*
 
 ## 🔬 Key Technical Expertise
 
