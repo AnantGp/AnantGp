@@ -5,7 +5,7 @@
 Machine Learning Engineer specializing in Large Language Models for healthcare. Expert in transforming complex clinical data into actionable insights using state-of-the-art NLP techniques. At Arogya Pandit, I've developed LLM-powered clinical summarization systems that reduce documentation time by 40% while maintaining 85%+ accuracy in clinical entity extraction.
 
 ### 🚀 Current Role
-**ML Engineer** at Arogya Pandit Pvt Limited
+**ML Engineer** at Arogya Pandit Pvt Limited |
 *Apr 2025 – Present*
 
 ## 🔬 Key Technical Expertise
