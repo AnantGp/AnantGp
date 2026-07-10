@@ -1,63 +1,53 @@
-# Anant Gupta | ML Engineer & Clinical NLP Specialist
+# Anant Gupta
 
-## 👨‍💻 Professional Profile
+AI engineer focused on clinical LLM systems, healthcare interoperability, and applied biometric ML.
 
-Machine Learning Engineer specializing in Large Language Models for healthcare. Expert in transforming complex clinical data into actionable insights using state-of-the-art NLP techniques. At Arogya Pandit, I've developed LLM-powered clinical summarization systems that reduce documentation time by 40% while maintaining 85%+ accuracy in clinical entity extraction.
+I build production-oriented healthcare AI: clinical summarization, medical entity extraction, ontology mapping, FHIR/HL7 workflows, and multi-agent systems. I am currently working as an LLM and multi-agent developer at ArogyaPandit, with research interests across clinical NLP, causal reasoning, privacy-aware medical AI, and biometrics.
 
-### 🚀 Current Role
-**ML Engineer** at Arogya Pandit Pvt Limited |
-*Apr 2025 – Present*
+Currently building **MediLipi**: doctor-patient conversations -> Whisper ASR -> medical NER -> SNOMED CT / UMLS / MedDRA mapping -> causal Bayesian networks for structured clinical knowledge.
 
-## 🔬 Key Technical Expertise
+## Hiring Snapshot
 
-### 💡 Specialized Skills
-- LLM-Powered Clinical Summarization
-- Prompt Engineering
-- Structured Output Generation
-- Hallucination Mitigation
-- Healthcare NLP
-- HIPAA-Compliant AI Solutions
+- **Best fit:** AI/ML Engineer, Clinical NLP Engineer, Healthcare AI Engineer, Applied Research Engineer.
+- **Core strengths:** LLM apps, structured extraction, RAG, hallucination guardrails, FHIR/HL7, medical ontologies, multi-agent workflows.
+- **Research signal:** International competition work across biometric footstep recognition, bioacoustics, face, sclera, and ear biometrics.
+- **Open to:** healthcare AI, clinical NLP, biometrics, and agentic AI roles.
 
-### 🧠 Technical Stack
-- **Languages:** Python
-- **ML/AI:** Ollama, Llama 3.x, GPT, BERT
-- **NLP:** spaCy, NLTK
-- **Validation:** Pydantic, JSON Schema
-- **DevOps:** Docker, Git, Linux
+## Featured Work
 
-## 🏆 Featured Projects
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [crossroad-fhir-link](https://github.com/AnantGp/crossroad-fhir-link) | HL7/FHIR IPS demo converting diabetes reports into coded FHIR bundles, terminology evidence, receiver readiness checks, and country-specific PDFs. | TypeScript, FHIR R4, Vercel |
+| [MediScribe](https://github.com/AnantGp/MediScribe) | Clinical scribe prototype for recording, transcribing, summarizing, and storing patient-clinician encounters. | Python, notebooks, healthcare NLP |
+| [mosquito123](https://github.com/AnantGp/mosquito123) | BioDCASE 2026 cross-domain mosquito species classification with domain-balanced audio ML training. | Python, PyTorch, audio ML |
+| [Jalguard-final](https://github.com/AnantGp/Jalguard-final) | Public health command-center app concept for water-borne disease monitoring, offline field workflows, and role-based dashboards. | Flutter, Dart, SQLite |
 
-### 1. MediScribeAI | Clinical Decision Support System
-- Developed end-to-end NLP pipeline processing 10,000+ clinical transcripts monthly
-- Achieved 85%+ accuracy in clinical entity extraction
-- Implemented SNOMED CT ontology mapping
-- Built Causal Bayesian Networks reducing diagnosis time by 30%
-- Tech Stack: Python, spaCy, Ollama, Llama 3.x, Pydantic
+## Research and Competition Work
 
-### 2. AI Discharge Summary Generator
-- Created structured generation pipeline with section-specific prompts
-- Implemented advanced privacy and normalization techniques
-- Developed context-aware generation strategies for clinical documentation
+| Area | Signal |
+|---|---|
+| Footstep biometrics | 1st place, 2nd International StepUP Competition for Biometric Footstep Recognition (2026). |
+| Bioacoustics | BioDCASE 2026 mosquito species recognition work focused on unseen-domain generalization. |
+| Biometrics | IJCB competition work spanning face liveness, morphing attack detection, sclera segmentation, face recognition, and ear biometrics. |
+| Clinical reasoning | MediLipi research direction combining medical ontologies with causal Bayesian networks. |
 
-## 🌐 Professional Achievements
-- Engineered LLM-powered clinical summarization using Ollama-served Llama 3.3 70B
-- Reduced clinical documentation time by 40%
-- Designed multi-stage prompt templates with PII suppression
-- Implemented robust hallucination guardrails
-- Developed adaptive preprocessing for heterogeneous clinical notes
+## Technical Toolkit
 
-## 🏅 Core Competencies
-- Clinical Natural Language Processing
-- Causal Bayesian Networks
-- Healthcare Standards Compliance (FHIR, HL7)
-- Machine Learning Model Development
-- Probabilistic Inference
-- Ethical AI in Healthcare
+- **Languages:** Python, TypeScript, JavaScript, Dart, SQL
+- **AI/ML:** PyTorch, Transformers, spaCy, Whisper, Llama, Gemini, OpenAI APIs, Ollama
+- **Healthcare:** FHIR R4, HL7, IPS, SNOMED CT, UMLS, MedDRA, clinical summarization, medical NER
+- **Agents/Data:** LangChain, MCP, RAG, structured outputs, Pydantic, DoWhy, pgmpy
+- **Delivery:** Docker, GCP, Vercel, GitHub Actions, Linux
 
-## 📫 Connect with Me
-- **Email:** anantsushilgupta@gmail.com
-- **LinkedIn:** [anant-gupta-324792280](https://linkedin.com/in/anant-gupta-324792280)
+## What I Like Building
 
----
+- Clinical AI systems that turn messy notes and conversations into reliable structured data.
+- Interoperability tools that make healthcare records portable across systems and countries.
+- Multi-agent workflows where each agent has a clear job, evidence trail, and failure mode.
+- Applied ML prototypes that move from notebook experiments to usable demos.
 
-*Transforming healthcare through intelligent, ethical AI solutions*
+## Contact
+
+- Email: [anantsushilgupta@gmail.com](mailto:anantsushilgupta@gmail.com)
+- LinkedIn: [linkedin.com/in/anantgp](https://www.linkedin.com/in/anantgp)
+- GitHub: [github.com/AnantGp](https://github.com/AnantGp)
