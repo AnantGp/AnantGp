@@ -10,7 +10,7 @@ Currently building **MediLipi**: doctor-patient conversations -> Whisper ASR -> 
 
 - **Best fit:** AI/ML Engineer, Clinical NLP Engineer, Healthcare AI Engineer, Applied Research Engineer.
 - **Core strengths:** LLM apps, structured extraction, RAG, hallucination guardrails, FHIR/HL7, medical ontologies, multi-agent workflows.
-- **Research signal:** International competition work across biometric footstep recognition, bioacoustics, face, sclera, and ear biometrics.
+- **Research signal:** International competition work across bioacoustics, face, sclera, and ear biometrics.
 - **Open to:** healthcare AI, clinical NLP, biometrics, and agentic AI roles.
 
 ## Featured Work
@@ -26,7 +26,6 @@ Currently building **MediLipi**: doctor-patient conversations -> Whisper ASR -> 
 
 | Area | Signal |
 |---|---|
-| Footstep biometrics | 1st place, 2nd International StepUP Competition for Biometric Footstep Recognition (2026). |
 | Bioacoustics | BioDCASE 2026 mosquito species recognition work focused on unseen-domain generalization. |
 | Biometrics | IJCB competition work spanning face liveness, morphing attack detection, sclera segmentation, face recognition, and ear biometrics. |
 | Clinical reasoning | MediLipi research direction combining medical ontologies with causal Bayesian networks. |
