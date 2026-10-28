@@ -20,6 +20,8 @@ The ArogyaPandit team placed **first** at IJCB 2026 with **8.00% equal-error rat
 
 [Paper and author list](https://arxiv.org/abs/2607.13905) | [Team code on my work account](https://github.com/AnantG5/STEP-UP)
 
+The public repository documents the method and commands; competition data and model checkpoints are not included.
+
 ### MediLipi | Clinical evidence mapping
 
 Manuscript in preparation on reference-constrained transformation of clinical-conversation information into auditable evidence for a **frozen population Bayesian network**. This mapping does not discover causal network structure. Research code is private.
@@ -51,7 +53,7 @@ Work on clinical LLM-based discharge-summary workflows for a healthcare client. 
 - **Published:** Gupta, A., Pavan Sai, A. and Dubey, S.K. [Analytical Approach of False Products and Complaint System Development Using Blockchain Technology](https://doi.org/10.1007/978-3-032-08600-6_1). ICICCT 2025 proceedings, Springer, 2026.
 - **Accepted at IJCB 2026; preprint:** [StepUP 2026](https://arxiv.org/abs/2607.13905), second author; team first place.
 - **Accepted at IJCB 2026; preprint:** [IJCB-AFMFR 2026](https://arxiv.org/abs/2607.24422), co-author; team third of four in the Limited Data Track.
-- **IJCB 2026 competition papers:** Co-author on SSBC sclera segmentation, UERC ear recognition and V-MAD morphing-attack detection; final proceedings status to be confirmed. [SSBC paper](https://lmi.fe.uni-lj.si/wp-content/uploads/2026/09/IJCB_SSBC_2026.pdf) | [UERC author record](https://www.croris.hr/crosbi/publikacija/prilog-skup/964273) | [V-MAD competition page](https://sites.google.com/view/vmad26competition/home)
+- **IJCB 2026 competition papers:** Co-author on SSBC sclera segmentation (separate SAM-LoRA and DINOv2 team entries), UERC ear recognition and V-MAD morphing-attack detection; final proceedings status to be confirmed. [SSBC paper](https://lmi.fe.uni-lj.si/wp-content/uploads/2026/09/IJCB_SSBC_2026.pdf) | [UERC author record](https://www.croris.hr/crosbi/publikacija/prilog-skup/964273) | [V-MAD competition page](https://sites.google.com/view/vmad26competition/home)
 - **Presented at IJCB 2026:** Co-author on the [LivDet-Face competition report](https://face2026.livdet.org/report); official proceedings status to be confirmed.
 - **In preparation:** MediLipi research manuscript.
 
