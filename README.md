@@ -22,6 +22,12 @@ An HL7 AI Challenge team prototype that transforms **synthetic** diabetes report
 
 [Repository and evaluation details](https://github.com/AnantGp/crossroad-fhir-link)
 
+### BioDCASE: cross-domain audio classification
+
+Competition project exploring mosquito-species recognition across recording domains. I reviewed relevant research, designed the spectrogram structure, developed the approach and contributed code. Baseline results in the repository are not a final competition score.
+
+[Project repository](https://github.com/AnantGp/mosquito123)
+
 ### MediLipi: clinical evidence mapping
 
 Research and a manuscript in preparation on reference-constrained transformation of clinical-conversation information into auditable evidence for a **frozen population Bayesian network**. This mapping does not discover causal network structure. The research repository is private.
