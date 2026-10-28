@@ -20,7 +20,6 @@ Currently building **MediLipi**: doctor-patient conversations -> Whisper ASR -> 
 | [crossroad-fhir-link](https://github.com/AnantGp/crossroad-fhir-link) | HL7/FHIR IPS demo converting diabetes reports into coded FHIR bundles, terminology evidence, receiver readiness checks, and country-specific PDFs. | TypeScript, FHIR R4, Vercel |
 | [MediScribe](https://github.com/AnantGp/MediScribe) | Clinical scribe prototype for recording, transcribing, summarizing, and storing patient-clinician encounters. | Python, notebooks, healthcare NLP |
 | [mosquito123](https://github.com/AnantGp/mosquito123) | BioDCASE 2026 cross-domain mosquito species classification with domain-balanced audio ML training. | Python, PyTorch, audio ML |
-| [Jalguard-final](https://github.com/AnantGp/Jalguard-final) | Public health command-center app concept for water-borne disease monitoring, offline field workflows, and role-based dashboards. | Flutter, Dart, SQLite |
 
 ## Research and Competition Work
 
