@@ -1,57 +1,61 @@
 # Anant Gupta
 
-AI research engineer working across healthcare AI, clinical NLP and biometrics.
+**Healthcare AI, biometrics and computer vision**
 
-[LinkedIn](https://www.linkedin.com/in/anantgp) | [Google Scholar](https://scholar.google.com/citations?user=8EUDt24AAAAJ) | [Email](mailto:anantsushilgupta@gmail.com)
+Gurugram, India | Prospective research master's / PhD applicant
+
+[Google Scholar](https://scholar.google.com/citations?user=8EUDt24AAAAJ) | [LinkedIn](https://www.linkedin.com/in/anantgp) | [Email](mailto:anantsushilgupta@gmail.com)
 
 ## Research interests
 
-Trustworthy clinical information extraction, medical AI evaluation, healthcare interoperability and biometric recognition under distribution shifts.
+- **Biometrics:** footstep recognition, face and ear recognition, sclera segmentation and morphing-attack detection.
+- **Healthcare AI:** clinical information extraction, terminology grounding, evidence traceability and medical AI evaluation.
+- **Interoperability and multimodal systems:** structured clinical records, FHIR and audio-based machine learning.
 
-## Selected work
+## Selected research and projects
 
-### StepUP 2026: biometric footstep recognition
+### StepUP 2026 | Footstep biometrics
 
-The ArogyaPandit team placed **first** in the IJCB 2026 StepUP competition, with **8.00% equal-error rate** on the competition evaluation. I am second author on the competition summary. The team used paired pressure footsteps, a spatiotemporal CNN and score fusion.
+The ArogyaPandit team placed **first** at IJCB 2026 with **8.00% equal-error rate** on the competition evaluation. I am second author of the challenge summary. Our team used a spatiotemporal CNN and score fusion for paired pressure footsteps.
 
-[Competition paper](https://arxiv.org/abs/2607.13905) | [Team code on my work account](https://github.com/AnantG5/STEP-UP)
+[Paper and author list](https://arxiv.org/abs/2607.13905) | [Team code on my work account](https://github.com/AnantG5/STEP-UP)
 
-### Cross-Border IPS AI Agent
+### MediLipi | Clinical evidence mapping
 
-An HL7 AI Challenge team prototype that transforms **synthetic** diabetes reports into terminology-mapped FHIR R4 IPS-style summaries and supporting evidence. This is a research prototype, not clinical validation.
+Manuscript in preparation on reference-constrained transformation of clinical-conversation information into auditable evidence for a **frozen population Bayesian network**. This mapping does not discover causal network structure. Research code is private.
 
-[Repository and evaluation details](https://github.com/AnantGp/crossroad-fhir-link)
+### Cross-Border IPS AI Agent | HL7 AI Challenge
 
-### BioDCASE: cross-domain audio classification
+A team prototype that transforms **synthetic** diabetes reports into terminology-mapped FHIR R4 IPS-style summaries and evidence. The evaluation uses synthetic data, not clinical validation.
 
-Competition project exploring mosquito-species recognition across recording domains. I reviewed relevant research, designed the spectrogram structure, developed the approach and contributed code. Baseline results in the repository are not a final competition score.
+[Repository, workflow and evaluation](https://github.com/AnantGp/crossroad-fhir-link)
+
+### BioDCASE | Cross-domain audio classification
+
+Mosquito-species recognition across recording domains. I reviewed the literature, designed the spectrogram structure, developed the approach and contributed code. Reported baseline figures are not a final team score.
 
 [Project repository](https://github.com/AnantGp/mosquito123)
 
-### MediLipi: clinical evidence mapping
+### Medivaanii | Medical report and voice MVP
 
-Research and a manuscript in preparation on reference-constrained transformation of clinical-conversation information into auditable evidence for a **frozen population Bayesian network**. This mapping does not discover causal network structure. The research repository is private.
+A research prototype for report reading and multilingual voice interaction. It uses external services and is **not clinically validated**; the repository documents privacy limitations.
+
+[Repository and data flow](https://github.com/AnantGp/medvaani)
 
 ### Clinical LLM engineering
 
 Work on clinical LLM-based discharge-summary workflows for a healthcare client. Client code, data and identifying details are confidential.
 
-### Medivaanii
+## Selected publications and competition papers
 
-A medical-report reading and voice-interaction **MVP**. The repository documents external service use and important privacy limitations; it is not a diagnostic system or a clinically validated product.
-
-[Repository](https://github.com/AnantGp/medvaani)
-
-## Publications and competition work
-
-- **Published:** [Analytical Approach of False Products and Complaint System Development Using Blockchain Technology](https://doi.org/10.1007/978-3-032-08600-6_1), ICICCT 2025 proceedings, Springer, 2026.
-- **Accepted at IJCB 2026; preprint:** [StepUP 2026](https://arxiv.org/abs/2607.13905), second author.
-- **Accepted at IJCB 2026; preprint:** [IJCB-AFMFR 2026](https://arxiv.org/abs/2607.24422), co-author. The ArogyaPandit team placed third in the Limited Data Track among four submitting teams.
-- **IJCB 2026 competition papers:** Co-author on sclera segmentation, ear recognition and video morphing-attack detection challenge summaries; final proceedings status to be confirmed.
+- **Published:** Gupta, A., Pavan Sai, A. and Dubey, S.K. [Analytical Approach of False Products and Complaint System Development Using Blockchain Technology](https://doi.org/10.1007/978-3-032-08600-6_1). ICICCT 2025 proceedings, Springer, 2026.
+- **Accepted at IJCB 2026; preprint:** [StepUP 2026](https://arxiv.org/abs/2607.13905), second author; team first place.
+- **Accepted at IJCB 2026; preprint:** [IJCB-AFMFR 2026](https://arxiv.org/abs/2607.24422), co-author; team third of four in the Limited Data Track.
+- **IJCB 2026 competition papers:** Co-author on SSBC sclera segmentation, UERC ear recognition and V-MAD morphing-attack detection; final proceedings status to be confirmed. [SSBC paper](https://lmi.fe.uni-lj.si/wp-content/uploads/2026/09/IJCB_SSBC_2026.pdf) | [UERC author record](https://www.croris.hr/crosbi/publikacija/prilog-skup/964273) | [V-MAD competition page](https://sites.google.com/view/vmad26competition/home)
 - **Presented at IJCB 2026:** Co-author on the [LivDet-Face competition report](https://face2026.livdet.org/report); official proceedings status to be confirmed.
 - **In preparation:** MediLipi research manuscript.
 
-## Background and tools
+## Background
 
 B.Tech. in Computer Science and Engineering, Amity University Uttar Pradesh, 2025.
 
