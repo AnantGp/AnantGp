@@ -1,51 +1,52 @@
 # Anant Gupta
 
-AI engineer focused on clinical LLM systems, healthcare interoperability, and applied biometric ML.
+AI research engineer working across healthcare AI, clinical NLP and biometrics.
 
-I build production-oriented healthcare AI: clinical summarization, medical entity extraction, ontology mapping, FHIR/HL7 workflows, and multi-agent systems. I am currently working as an LLM and multi-agent developer at ArogyaPandit, with research interests across clinical NLP, causal reasoning, privacy-aware medical AI, and biometrics.
+[LinkedIn](https://www.linkedin.com/in/anantgp) | [Google Scholar](https://scholar.google.com/citations?user=8EUDt24AAAAJ) | [Email](mailto:anantsushilgupta@gmail.com)
 
-Currently building **MediLipi**: doctor-patient conversations -> Whisper ASR -> medical NER -> SNOMED CT / UMLS / MedDRA mapping -> causal Bayesian networks for structured clinical knowledge.
+## Research interests
 
-## Hiring Snapshot
+Trustworthy clinical information extraction, medical AI evaluation, healthcare interoperability and biometric recognition under distribution shifts.
 
-- **Best fit:** AI/ML Engineer, Clinical NLP Engineer, Healthcare AI Engineer, Applied Research Engineer.
-- **Core strengths:** LLM apps, structured extraction, RAG, hallucination guardrails, FHIR/HL7, medical ontologies, multi-agent workflows.
-- **Research signal:** International competition work across bioacoustics, face, sclera, and ear biometrics.
-- **Open to:** healthcare AI, clinical NLP, biometrics, and agentic AI roles.
+## Selected work
 
-## Featured Work
+### StepUP 2026: biometric footstep recognition
 
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [crossroad-fhir-link](https://github.com/AnantGp/crossroad-fhir-link) | HL7/FHIR IPS demo converting diabetes reports into coded FHIR bundles, terminology evidence, receiver readiness checks, and country-specific PDFs. | TypeScript, FHIR R4, Vercel |
-| [MediScribe](https://github.com/AnantGp/MediScribe) | Clinical scribe prototype for recording, transcribing, summarizing, and storing patient-clinician encounters. | Python, notebooks, healthcare NLP |
-| [mosquito123](https://github.com/AnantGp/mosquito123) | BioDCASE 2026 cross-domain mosquito species classification with domain-balanced audio ML training. | Python, PyTorch, audio ML |
+The ArogyaPandit team placed **first** in the IJCB 2026 StepUP competition, with **8.00% equal-error rate** on the competition evaluation. I am second author on the competition summary. The team used paired pressure footsteps, a spatiotemporal CNN and score fusion.
 
-## Research and Competition Work
+[Competition paper](https://arxiv.org/abs/2607.13905) | [Team code on my work account](https://github.com/AnantG5/STEP-UP)
 
-| Area | Signal |
-|---|---|
-| Bioacoustics | BioDCASE 2026 mosquito species recognition work focused on unseen-domain generalization. |
-| Biometrics | IJCB competition work spanning face liveness, morphing attack detection, sclera segmentation, face recognition, and ear biometrics. |
-| Clinical reasoning | MediLipi research direction combining medical ontologies with causal Bayesian networks. |
+### Cross-Border IPS AI Agent
 
-## Technical Toolkit
+An HL7 AI Challenge team prototype that transforms **synthetic** diabetes reports into terminology-mapped FHIR R4 IPS-style summaries and supporting evidence. This is a research prototype, not clinical validation.
 
-- **Languages:** Python, TypeScript, JavaScript, Dart, SQL
-- **AI/ML:** PyTorch, Transformers, spaCy, Whisper, Llama, Gemini, OpenAI APIs, Ollama
-- **Healthcare:** FHIR R4, HL7, IPS, SNOMED CT, UMLS, MedDRA, clinical summarization, medical NER
-- **Agents/Data:** LangChain, MCP, RAG, structured outputs, Pydantic, DoWhy, pgmpy
-- **Delivery:** Docker, GCP, Vercel, GitHub Actions, Linux
+[Repository and evaluation details](https://github.com/AnantGp/crossroad-fhir-link)
 
-## What I Like Building
+### MediLipi: clinical evidence mapping
 
-- Clinical AI systems that turn messy notes and conversations into reliable structured data.
-- Interoperability tools that make healthcare records portable across systems and countries.
-- Multi-agent workflows where each agent has a clear job, evidence trail, and failure mode.
-- Applied ML prototypes that move from notebook experiments to usable demos.
+Research and a manuscript in preparation on reference-constrained transformation of clinical-conversation information into auditable evidence for a **frozen population Bayesian network**. This mapping does not discover causal network structure. The research repository is private.
 
-## Contact
+### Clinical LLM engineering
 
-- Email: [anantsushilgupta@gmail.com](mailto:anantsushilgupta@gmail.com)
-- LinkedIn: [linkedin.com/in/anantgp](https://www.linkedin.com/in/anantgp)
-- GitHub: [github.com/AnantGp](https://github.com/AnantGp)
+Work on clinical LLM-based discharge-summary workflows for a healthcare client. Client code, data and identifying details are confidential.
+
+### Medivaanii
+
+A medical-report reading and voice-interaction **MVP**. The repository documents external service use and important privacy limitations; it is not a diagnostic system or a clinically validated product.
+
+[Repository](https://github.com/AnantGp/medvaani)
+
+## Publications and competition work
+
+- **Published:** [Analytical Approach of False Products and Complaint System Development Using Blockchain Technology](https://doi.org/10.1007/978-3-032-08600-6_1), ICICCT 2025 proceedings, Springer, 2026.
+- **Accepted at IJCB 2026; preprint:** [StepUP 2026](https://arxiv.org/abs/2607.13905), second author.
+- **Accepted at IJCB 2026; preprint:** [IJCB-AFMFR 2026](https://arxiv.org/abs/2607.24422), co-author. The ArogyaPandit team placed third in the Limited Data Track among four submitting teams.
+- **IJCB 2026 competition papers:** Co-author on sclera segmentation, ear recognition and video morphing-attack detection challenge summaries; final proceedings status to be confirmed.
+- **Presented at IJCB 2026:** Co-author on the [LivDet-Face competition report](https://face2026.livdet.org/report); official proceedings status to be confirmed.
+- **In preparation:** MediLipi research manuscript.
+
+## Background and tools
+
+B.Tech. in Computer Science and Engineering, Amity University Uttar Pradesh, 2025.
+
+Python, PyTorch, large language models, Whisper, Google Cloud, FHIR R4, SNOMED CT, UMLS, MedDRA and Bayesian networks.
