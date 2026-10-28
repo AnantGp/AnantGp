@@ -2,7 +2,7 @@
 
 **Healthcare AI, biometrics and computer vision**
 
-Gurugram, India | Prospective research master's / PhD applicant
+Gurugram, India | Prospective Fall 2027 research master's / PhD applicant
 
 [Google Scholar](https://scholar.google.com/citations?user=8EUDt24AAAAJ) | [LinkedIn](https://www.linkedin.com/in/anantgp) | [Email](mailto:anantsushilgupta@gmail.com)
 
