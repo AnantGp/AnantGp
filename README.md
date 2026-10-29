@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Anant Gupta: AI Engineer and Researcher in trustworthy medical AI, clinical LLMs and biometrics" src="assets/banner-light.svg" width="100%">
+  <img alt="Anant Gupta: AI Research Engineer in trustworthy medical AI, clinical LLMs and biometrics" src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -109,6 +109,6 @@ Research prototype for report reading and multilingual voice interaction. Uses e
 ## Background
 
 **B.Tech., Computer Science and Engineering**, Amity University Uttar Pradesh (Noida), 2025
-**AI Engineer**, ArogyaPandit Private Limited, Gurugram
+**AI Research Engineer**, ArogyaPandit Private Limited, Gurugram
 
 `Python` `PyTorch` `LLMs` `Whisper` `Google Cloud` `FHIR R4` `SNOMED CT` `UMLS` `MedDRA` `Bayesian networks`
