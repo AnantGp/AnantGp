@@ -30,14 +30,10 @@ Plus co-authorship on four more IJCB 2026 competition papers: V-MAD, SSBC, UERC 
 
 ## Research map
 
-```mermaid
-flowchart LR
-    B["Biometrics<br/>footstep · face · ear · sclera · liveness"] --> M["Robust, auditable<br/>representation learning"]
-    H["Clinical LLMs<br/>extraction · terminology grounding · FHIR"] --> T["Traceable evidence<br/>and honest evaluation"]
-    M --> G(["Trustworthy medical AI"])
-    T --> G
-    G --> N["Next: neural-signal decoding<br/>for non-speaking people"]
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/research-map-dark.svg">
+  <img alt="Research map: biometrics and clinical LLMs lead, through robust representations and traceable evidence, to trustworthy medical AI; next, neural-signal decoding" src="assets/research-map-light.svg" width="100%">
+</picture>
 
 ---
 

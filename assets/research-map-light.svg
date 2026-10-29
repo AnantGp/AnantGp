@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#57606a"/></marker></defs>
+<rect width="1200" height="260" rx="18" fill="#ffffff"/>
+<rect x="20" y="30" width="300" height="84" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5" />
+<text x="170.0" y="68.0" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2328">Biometrics</text>
+<text x="170.0" y="90.0" text-anchor="middle" font-size="13" fill="#57606a">footstep · face · ear · sclera · liveness</text>
+<rect x="20" y="146" width="300" height="84" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5" />
+<text x="170.0" y="184.0" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2328">Clinical LLMs</text>
+<text x="170.0" y="206.0" text-anchor="middle" font-size="13" fill="#57606a">extraction · terminology · FHIR</text>
+<rect x="380" y="30" width="280" height="84" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5" />
+<text x="520.0" y="68.0" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2328">Robust representations</text>
+<text x="520.0" y="90.0" text-anchor="middle" font-size="13" fill="#57606a">metric learning · domain shift</text>
+<rect x="380" y="146" width="280" height="84" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5" />
+<text x="520.0" y="184.0" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2328">Traceable evidence</text>
+<text x="520.0" y="206.0" text-anchor="middle" font-size="13" fill="#57606a">auditable outputs · honest evaluation</text>
+<rect x="725" y="88" width="230" height="84" rx="14" fill="#f6f8fa" stroke="#d1242f" stroke-width="1.5" />
+<text x="840.0" y="126.0" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2328">Trustworthy medical AI</text>
+<text x="840.0" y="148.0" text-anchor="middle" font-size="13" fill="#57606a">the common thread</text>
+<rect x="1000" y="88" width="180" height="84" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="1090.0" y="126.0" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2328">Next</text>
+<text x="1090.0" y="148.0" text-anchor="middle" font-size="13" fill="#57606a">neural-signal decoding</text>
+<path d="M320 72 C349.0 72, 349.0 72, 378 72" fill="none" stroke="#57606a" stroke-width="1.8" marker-end="url(#a)"/><path d="M320 188 C349.0 188, 349.0 188, 378 188" fill="none" stroke="#57606a" stroke-width="1.8" marker-end="url(#a)"/><path d="M660 72 C691.5 72, 691.5 122, 723 122" fill="none" stroke="#57606a" stroke-width="1.8" marker-end="url(#a)"/><path d="M660 188 C691.5 188, 691.5 138, 723 138" fill="none" stroke="#57606a" stroke-width="1.8" marker-end="url(#a)"/><path d="M955 130 C976.5 130, 976.5 130, 998 130" fill="none" stroke="#57606a" stroke-width="1.8" marker-end="url(#a)"/>
+</svg>
