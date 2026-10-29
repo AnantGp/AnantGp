@@ -1,23 +1,43 @@
-# Anant Gupta
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Anant Gupta: AI Engineer and Researcher in trustworthy medical AI, clinical LLMs and biometrics" src="assets/banner-light.svg" width="100%">
+</picture>
 
-**AI Engineer & Researcher · Trustworthy medical AI · Biometrics**
-Gurugram, India · Prospective Fall 2027 research master's / PhD applicant
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=8EUDt24AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-profile-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://www.linkedin.com/in/anantgp"><img src="https://img.shields.io/badge/LinkedIn-anantgp-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Based_in-Gurugram,_India-555" alt="Gurugram, India">
+  <!-- Add your email badge here: <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-contact-D14836?logo=gmail&logoColor=white" alt="Email"></a> -->
+</p>
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8EUDt24AAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anantgp-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anantgp)
-<!-- Add your email badge here: [![Email](https://img.shields.io/badge/Email-contact-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL) -->
-
-I build and evaluate AI systems for healthcare and biometrics, with a focus on outputs that can be traced, audited and honestly reported. Long term, I want to work on trustworthy medical AI for neurological disease, including neural-signal decoding to help non-speaking people communicate.
+> I build and evaluate AI systems for healthcare and biometrics, with a focus on outputs that can be **traced, audited and honestly reported**. Long term, I want to work on trustworthy medical AI for neurological disease, including neural-signal decoding to help non-speaking people communicate.
 
 ---
 
-## Highlights
+## Results at a glance
 
-- 🥇 **1st place, StepUP 2026** (IJCB 2026 biometric footstep recognition), 8.00% EER. Second author of the challenge summary paper.
-- 🥉 **3rd place, IJCB-AFMFR 2026** Limited Data Track (face recognition with synthetic training data).
-- 📄 **Springer publication**, ICICCT 2025 (LNNS vol. 1664).
-- 🏥 **Production clinical LLM work**: discharge-summary pipeline for a healthcare client, validated on a 669-test suite.
-- Co-author on **six IJCB 2026 competition papers** across footstep, face, sclera, ear, morphing-attack and liveness detection, plus one Springer paper.
+| | Challenge / work | Result | My role | Paper | Code |
+|:-:|---|---|---|:-:|:-:|
+| 🥇 | **StepUP 2026** · footstep biometrics (IJCB) | **1st place** · EER 8.00% | Second author | [arXiv](https://arxiv.org/abs/2607.13905) | [repo](https://github.com/AnantGp/STEP-UP) |
+| 🥉 | **IJCB-AFMFR 2026** · face recognition, synthetic data | **3rd**, Limited Data Track | Co-author | [arXiv](https://arxiv.org/abs/2607.24422) | [repo](https://github.com/AnantGp/afmfr2026-face-recognition) |
+| 📄 | **ICICCT 2025** · blockchain complaint system | **Published**, Springer LNNS 1664 | First author | [DOI](https://doi.org/10.1007/978-3-032-08600-6_1) | |
+| 🏥 | **Clinical LLM pipeline** · discharge summaries | Validated on a 669-test suite | Engineer | | confidential |
+| 🌐 | **HL7 AI Challenge 2026** · cross-border FHIR IPS | 0 validator errors on 4 IPS routes | Team member | | [repo](https://github.com/AnantGp/crossroad-fhir-link) |
+
+Plus co-authorship on four more IJCB 2026 competition papers: V-MAD, SSBC, UERC and LivDet-Face ([full list](#publications-and-competition-papers)).
+
+---
+
+## Research map
+
+```mermaid
+flowchart LR
+    B["Biometrics<br/>footstep · face · ear · sclera · liveness"] --> M["Robust, auditable<br/>representation learning"]
+    H["Clinical LLMs<br/>extraction · terminology grounding · FHIR"] --> T["Traceable evidence<br/>and honest evaluation"]
+    M --> G(["Trustworthy medical AI"])
+    T --> G
+    G --> N["Next: neural-signal decoding<br/>for non-speaking people"]
+```
 
 ---
 
