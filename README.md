@@ -17,7 +17,7 @@ I build and evaluate AI systems for healthcare and biometrics, with a focus on o
 - 🥉 **3rd place, IJCB-AFMFR 2026** Limited Data Track (face recognition with synthetic training data).
 - 📄 **Springer publication**, ICICCT 2025 (LNNS vol. 1664).
 - 🏥 **Production clinical LLM work**: discharge-summary pipeline for a healthcare client, validated on a 669-test suite.
-- Co-author on **six IJCB 2026 competition papers** across footstep, face, sclera, ear, morphing-attack and liveness detection.
+- Co-author on **six IJCB 2026 competition papers** across footstep, face, sclera, ear, morphing-attack and liveness detection, plus one Springer paper.
 
 ---
 
@@ -61,21 +61,32 @@ Research prototype for report reading and multilingual voice interaction. Uses e
 
 ## Publications and competition papers
 
+7 papers: 1 published (Springer) and 6 IJCB 2026 competition papers. Each is listed at its current status.
+
 **Published**
-- Gupta, A., Pavan Sai, A. and Dubey, S.K. [Analytical Approach of False Products and Complaint System Development Using Blockchain Technology](https://doi.org/10.1007/978-3-032-08600-6_1). *ICICCT 2025*, LNNS vol. 1664, Springer, 2026.
+1. **Analytical Approach of False Products and Complaint System Development Using Blockchain Technology.** Gupta, A., Pavan Sai, A. and Dubey, S.K. *ICICCT 2025*, Lecture Notes in Networks and Systems vol. 1664, Springer, 2026.
+   [DOI](https://doi.org/10.1007/978-3-032-08600-6_1) · [Springer](https://link.springer.com/chapter/10.1007/978-3-032-08600-6_1)
 
 **Accepted at IJCB 2026 (preprints available)**
-- [StepUP 2026: From Steps to Strides](https://arxiv.org/abs/2607.13905). Second author; team placed first.
-- [IJCB-AFMFR 2026: Adapting Foundation Models for Face Recognition Using Synthetic Data](https://arxiv.org/abs/2607.24422). Co-author (competition participant); team third in the Limited Data Track.
 
-**IJCB 2026 competition papers (final proceedings pending)**
-- [SSBC 2026](https://lmi.fe.uni-lj.si/wp-content/uploads/2026/09/IJCB_SSBC_2026.pdf): label-efficient sclera segmentation (SAM-LoRA and DINOv2 entries). Co-author.
-- [UERC 2026](https://www.croris.hr/crosbi/publikacija/prilog-skup/964273): ear recognition on edge devices. Co-author.
-- [V-MAD 2026](https://sites.google.com/view/vmad26competition/home): video-based morphing-attack detection. Co-author.
-- [LivDet-Face 2026](https://face2026.livdet.org/report): face liveness detection report, presented at IJCB. Co-author.
+2. **The 2nd International StepUP Competition for Biometric Footstep Recognition: From Steps to Strides.** Second author. 🥇 Team placed **1st**, best EER 8.00%.
+   [arXiv:2607.13905](https://arxiv.org/abs/2607.13905)
+3. **Competition on Adapting Foundation Models for Face Recognition Using Synthetic Training Data (IJCB-AFMFR 2026).** Co-author (competition participant). 🥉 Team placed **3rd** in the Limited Data Track.
+   [arXiv:2607.24422](https://arxiv.org/abs/2607.24422) · [PDF](https://publications.idiap.ch/attachments/papers/2026/OtroshiShahreza_IJCB-2_2026.pdf)
+
+**IJCB 2026 competition papers (presented; final proceedings pending)**
+
+4. **Every Frame You Take: The Video-based Morphing Attack Detection Challenge (V-MAD).** Co-author. Quality-aware dual-branch late fusion: EfficientNet-B0 artifact branch plus ArcFace identity branch with OFIQ frame filtering.
+   [PDF](https://publications.idiap.ch/attachments/papers/2026/N.Di%20Domenico%20L.%20Pellegrini%20S.%20M.%20La%20Cava%20et%20al.%20Every%20Frame%20You%20Take%20The%20%20%20Video-based%20Morphing%20Attack%20Detection%20Challenge.%20IJCB-Challegen%20Report%202026..pdf)
+5. **Label-Efficient Sclera Segmentation with Foundation Models: SSBC 2026.** Co-author. SAM-LoRA and DINOv2 team entries.
+   [PDF](https://lmi.fe.uni-lj.si/wp-content/uploads/2026/09/IJCB_SSBC_2026.pdf)
+6. **The Unconstrained Ear Recognition Challenge 2026: Size Matters (UERC).** Co-author. ConvNeXt + ArcFace entry.
+   [Author record](https://www.croris.hr/crosbi/publikacija/prilog-skup/964273)
+7. **LivDet-Face 2026: Face Liveness Detection Competition.** Co-author (team CosmicFace).
+   [Competition report](https://face2026.livdet.org/files/livdet-face-2026-report.pdf)
 
 **In preparation**
-- MediLipi technical note.
+- MediLipi: reference-constrained clinical evidence mapping for a frozen population Bayesian network.
 
 ---
 
