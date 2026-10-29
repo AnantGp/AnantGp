@@ -35,7 +35,7 @@ I build and evaluate AI systems for healthcare and biometrics, with a focus on o
 
 ### StepUP 2026 · Footstep biometrics · 🥇 1st place
 Spatiotemporal CNN with score fusion for paired pressure footsteps. 8.00% EER on the competition evaluation.
-[Paper (arXiv:2607.13905)](https://arxiv.org/abs/2607.13905) · [Team code](https://github.com/AnantG5/STEP-UP)
+[Paper (arXiv:2607.13905)](https://arxiv.org/abs/2607.13905) · [Code](https://github.com/AnantGp/STEP-UP)
 <sub>Competition data and model checkpoints are not included in the repository.</sub>
 
 ### Clinical LLM engineering · Discharge summaries
@@ -70,18 +70,18 @@ Research prototype for report reading and multilingual voice interaction. Uses e
 **Accepted at IJCB 2026 (preprints available)**
 
 2. **The 2nd International StepUP Competition for Biometric Footstep Recognition: From Steps to Strides.** Second author. 🥇 Team placed **1st**, best EER 8.00%.
-   [arXiv:2607.13905](https://arxiv.org/abs/2607.13905)
+   [arXiv:2607.13905](https://arxiv.org/abs/2607.13905) · [Code](https://github.com/AnantGp/STEP-UP)
 3. **Competition on Adapting Foundation Models for Face Recognition Using Synthetic Training Data (IJCB-AFMFR 2026).** Co-author (competition participant). 🥉 Team placed **3rd** in the Limited Data Track.
-   [arXiv:2607.24422](https://arxiv.org/abs/2607.24422) · [PDF](https://publications.idiap.ch/attachments/papers/2026/OtroshiShahreza_IJCB-2_2026.pdf)
+   [arXiv:2607.24422](https://arxiv.org/abs/2607.24422) · [PDF](https://publications.idiap.ch/attachments/papers/2026/OtroshiShahreza_IJCB-2_2026.pdf) · [Code](https://github.com/AnantGp/afmfr2026-face-recognition)
 
 **IJCB 2026 competition papers (presented; final proceedings pending)**
 
 4. **Every Frame You Take: The Video-based Morphing Attack Detection Challenge (V-MAD).** Co-author. Quality-aware dual-branch late fusion: EfficientNet-B0 artifact branch plus ArcFace identity branch with OFIQ frame filtering.
    [PDF](https://publications.idiap.ch/attachments/papers/2026/N.Di%20Domenico%20L.%20Pellegrini%20S.%20M.%20La%20Cava%20et%20al.%20Every%20Frame%20You%20Take%20The%20%20%20Video-based%20Morphing%20Attack%20Detection%20Challenge.%20IJCB-Challegen%20Report%202026..pdf)
 5. **Label-Efficient Sclera Segmentation with Foundation Models: SSBC 2026.** Co-author. SAM-LoRA and DINOv2 team entries.
-   [PDF](https://lmi.fe.uni-lj.si/wp-content/uploads/2026/09/IJCB_SSBC_2026.pdf)
+   [PDF](https://lmi.fe.uni-lj.si/wp-content/uploads/2026/09/IJCB_SSBC_2026.pdf) · [Code](https://github.com/AnantGp/ssbc-2026-sclera-segmentation)
 6. **The Unconstrained Ear Recognition Challenge 2026: Size Matters (UERC).** Co-author. ConvNeXt + ArcFace entry.
-   [Author record](https://www.croris.hr/crosbi/publikacija/prilog-skup/964273)
+   [Author record](https://www.croris.hr/crosbi/publikacija/prilog-skup/964273) · [Code](https://github.com/AnantGp/uerc-2026-ear-recognition)
 7. **LivDet-Face 2026: Face Liveness Detection Competition.** Co-author (team CosmicFace).
    [Competition report](https://face2026.livdet.org/files/livdet-face-2026-report.pdf)
 
