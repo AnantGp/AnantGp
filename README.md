@@ -97,7 +97,7 @@ Research prototype for report reading and multilingual voice interaction. Uses e
 5. **Label-Efficient Sclera Segmentation with Foundation Models: SSBC 2026.** Co-author. SAM-LoRA and DINOv2 team entries.
    [PDF](https://lmi.fe.uni-lj.si/wp-content/uploads/2026/09/IJCB_SSBC_2026.pdf) · [Code](https://github.com/AnantGp/ssbc-2026-sclera-segmentation)
 6. **The Unconstrained Ear Recognition Challenge 2026: Size Matters (UERC).** Co-author. ConvNeXt + ArcFace entry.
-   [Author record](https://www.croris.hr/crosbi/publikacija/prilog-skup/964273) · [Code](https://github.com/AnantGp/uerc-2026-ear-recognition)
+   [PDF](https://lmi.fe.uni-lj.si/wp-content/uploads/2026/09/UERC26.pdf) · [Code](https://github.com/AnantGp/uerc-2026-ear-recognition)
 7. **LivDet-Face 2026: Face Liveness Detection Competition.** Co-author (team CosmicFace).
    [Competition report](https://face2026.livdet.org/files/livdet-face-2026-report.pdf)
 
