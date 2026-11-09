@@ -67,7 +67,7 @@ Team prototype that turns **synthetic** clinical reports into terminology-mapped
 
 ### BioDCASE · Cross-domain audio classification
 Mosquito-species recognition across recording domains. I reviewed the literature, designed the spectrogram structure, developed the approach and contributed code. Reported baseline figures are not a final team score.
-[Repository](https://github.com/AnantGp/mosquito123)
+[Repository](https://github.com/AnantGp/biodcase-mosquito-crossdomain)
 
 ### Medivaanii · Medical report and voice MVP
 Research prototype for report reading and multilingual voice interaction. Uses external services and is **not clinically validated**; the repository documents its privacy limitations.
